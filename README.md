@@ -1,1 +1,3 @@
 # WordleSolver
+
+Run WordleSolver.py
